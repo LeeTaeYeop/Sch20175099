@@ -46,6 +46,6 @@ public class Practice3{
 					out.close();
 				}
 		}
-		System.out.println("동작  : "+(end-start)/1000+"."+(end-start)%1000+"(s)");
+		System.out.println("동작 : "+(end-start)/1000+"."+(end-start)%1000+"(s)");
 	}
 }
