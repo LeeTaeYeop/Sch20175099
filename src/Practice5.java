@@ -49,7 +49,7 @@ public class Practice5 {
 					out.close();
 			}
 		}
-		System.out.println("µ¿ÀÛ ½Ã°£: " + (end - start) / 1000 + "."
+		System.out.println("ë™ì‘ ì‹œê°„: " + (end - start) / 1000 + "."
 
 				+ (end - start) % 1000 + "(s)");
 	}
