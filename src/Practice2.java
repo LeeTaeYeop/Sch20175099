@@ -43,6 +43,6 @@ public class Practice2{
 					out.close();
 				}
 		}
-		System.out.println("µ¿ÀÛ ½Ã°£: "+(end-start)/1000+"."+(end-start)%1000+"(s)");
+		System.out.println("ë™ì‘ ì‹œê°„: "+(end-start)/1000+"."+(end-start)%1000+"(s)");
 	}
 }
